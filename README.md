@@ -41,7 +41,7 @@ Follow these steps to get the project running on your machine:
     ```
 
 5.  **Start the React development server (in another separate terminal):**
-    This will typically open the app in your browser at `http://localhost:5174`.
+    This will typically open the app in your browser at `http://localhost:5173`.
     ```bash
     npm run dev
     ```
