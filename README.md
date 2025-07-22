@@ -1,8 +1,8 @@
-# Smart Goal Planner 🎯
+# Smart Goal Planner 
 
 A simple React application to help users manage multiple savings goals, track progress, allocate deposits, and get an overview of their financial savings.
 
-## Features ✨
+## Features 
 
 * **Create, Read, Update, Delete (CRUD) Goals:** Add, view, modify, and remove your financial goals.
 * **Progress Tracking:** See how much you've saved towards each goal with a visual progress bar.
@@ -10,14 +10,14 @@ A simple React application to help users manage multiple savings goals, track pr
 * **Overview Dashboard:** Get a quick summary of total goals, total saved amount, completed goals, and upcoming deadlines.
 * **Local Data Persistence:** All your goal data is stored locally using `json-server`.
 
-## Technologies Used 🛠️
+## Technologies Used 
 
 * **React:** For building the user interface.
 * **Vite:** A fast development build tool for React projects.
 * **json-server:** To simulate a REST API for local data storage (`db.json`).
 * **date-fns:** For easy date manipulation and formatting.
 
-## Setup and Run Locally 🚀
+## Setup and Run Locally 
 
 Follow these steps to get the project running on your machine:
 
